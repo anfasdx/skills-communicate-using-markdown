@@ -1,8 +1,5 @@
 <header>
   
-# Hello Guys!.. `<h1>`
-## Hello Guys!.. `<h2>`
-### Hello Guys!.. `<h3>`
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -87,18 +84,3 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
-
-
-### short, meaningful commit message
-
-We Just added 
-```md
-# Hello Guys!.. `<h1>`
-## Hello Guys!.. `<h2>`
-### Hello Guys!.. `<h3>`
-```
-Which Shown as header 
-
-# Hello Guys!.. 
-## Hello Guys!.. 
-### Hello Guys!.. 
